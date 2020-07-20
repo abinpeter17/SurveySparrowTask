@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+@font-face {
+  font-family: 'Helvetica Neue SemiBold';
+  src: url('./assets/fonts/HelveticaNeueBold.woff');
+  font-weight: 600;
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Helvetica' !important;
+  font-size: 20px !important;
+  color: #000000 !important;
+}
+
+.tripW-body-text {
+  font-family: 'Helvetica' !important;
+  font-size: 20px !important;
+}
+.tripW-button-text {
+  font-family: 'Helvetica Neue SemiBold' !important;
+  font-size: 22px !important;
+  text-transform: uppercase !important;
+
+}
+.tripW-title-logo {
+  font-family: 'Helvetica Neue SemiBold' !important;
+  font-size: 36px !important;
+  text-transform: uppercase !important;
+  color: #313131;
+  letter-spacing: 2px;
+}
+.tripW-title-large {
+  font-family: 'Bebas Neue' !important;
+  font-size: 80px !important;
+  color: white;
+  line-height: 0.9 !important;
+}
+
+.tripW-title-small {
+  font-family: 'Bebas Neue' !important;
+  font-size: 39px !important;
+  text-transform: uppercase !important;
+}
+
+.tripW-header {
+  height: 100px !important;
+  position: relative;
+  background-color: white !important;
+  color: #000000 !important;
+  box-shadow: none !important;
+}
+
+.tripW-signIn-btn {
+  color: white !important;
+  background-color: #DF3D39 !important;
+  border-radius: 0 !important;
+  padding: 0px 16px !important;
+}
+
+.tripW-customize-btn {
+  color: white !important;
+  background-color: #DF3D39 !important;
+  border-radius: 0 !important;
+}
+
+.tripW-footer {
+  font-size: 12px;
+  height: 100px !important;
+  bottom: 0;
+  width: 100%;
+  position: static;
+  z-index: 999;
+  background-color: #313131;
+  color: #B0B0B0;
+  margin-top: 40px !important;
+}
+
+.tripW-pattern-background {
+  background-image: url(./assets/images/pattern.png);
+  background-size: 100px 100px;
+  background-color: #DF3D39 !important;
+  height: 600px;
+}
+
+.tripW-image-background {
+  background-color: white !important;
+  height: 560px;
+}
+
+.tripW-modal-btn {
+  color: white !important;
+  background-color: #9B1F1B !important;
+  text-transform: uppercase !important;
+  width: 100%;
+  border-radius: 0 !important;
+}
+
+.tripW-divider {
+  background-color: white !important;
+  height: 20px !important;
+  width: 380px !important;
+}
+
+.tripW-content1 {
+  color: #E9E9E9;
+}
+
+.tripW-content2 {
+  color: #313131;
+  line-height: 1.48 !important;
+}
+
+.tripW-content1-container {
+    position: relative;
+    top: 190px;
+}
+
+.tripW-content2-container {
+  position: relative;
+  top: 130px;
+}
+
+.tripW-white {
+  color: white;
+}
+
+.tripW-input {
+  width: 76% !important;
+  background-color: white !important;
+  border-radius: 0 !important;
+}
+
+.tripW-placeholder {
+  color: rgba(0, 0, 0, 0.54) !important;
+}
+
+.tripW-btn-container {
+  width: 78% !important;
+}
+
+.tripW-error {
+  color:white !important;
+  font-size: 12px !important;
+}
